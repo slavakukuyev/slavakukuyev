@@ -1,10 +1,7 @@
 <!-- Banner image (optional, replace with your own or remove) -->
 <p align="center">
-  <img src="https://github.com/slavakukuyev/slavakukuyev/assets/banner.png" alt="Banner" width="100%" />
+  <img src="github-header-image.png" alt="Banner" width="100%" />
 </p>
-
-<h1 align="center">Hi 👋, I'm Slava</h1>
-<h3 align="center">Backend Engineer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/slavakukuyev" target="_blank">
